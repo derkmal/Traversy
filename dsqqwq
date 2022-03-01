@@ -1,0 +1,54 @@
+[33mcommit 2d7ec961ada8367db24bbbd6728b7643c69abcb4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Sun Feb 27 08:28:23 2022 -0300
+
+    new3
+
+[33mcommit b09f988bff5e29940b33948572ade66347a18a33[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Sun Feb 27 08:27:26 2022 -0300
+
+    new2
+
+[33mcommit 5b5a6b4c2766d97833fb0d8df6674134b60d93c2[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Sun Feb 27 08:25:04 2022 -0300
+
+    new
+
+[33mcommit 02b6d1b49aee3f980ff85f77258141d743e4bc18[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Sat Feb 26 00:14:53 2022 -0300
+
+    Added readme file
+
+[33mcommit 66ed74e08e44252041498f4f8e17da15e352fe00[m
+Merge: 466db12 42d63e9
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Fri Feb 25 23:52:20 2022 -0300
+
+    Merge branch 'mybranch'
+
+[33mcommit 42d63e91e51741eec756591086cd2793744f60cd[m[33m ([m[1;32mmybranch[m[33m)[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Fri Feb 25 23:47:56 2022 -0300
+
+    login form
+
+[33mcommit 466db129c8445bc94a5972eb45dd248364c2df60[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Fri Feb 25 23:38:52 2022 -0300
+
+    another change
+
+[33mcommit d05ee37978805a640d0130a0444066c47559d853[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Fri Feb 25 22:58:20 2022 -0300
+
+    Changed app.js
+
+[33mcommit 41ad21f4e0aca2cc4178ba5b17c5aa4ca70391c7[m
+Author: Vagner Willians <vagnerwillians@hotmail.com>
+Date:   Fri Feb 25 22:42:33 2022 -0300
+
+     Initial commit
